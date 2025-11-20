@@ -21,4 +21,3 @@ class EstadoFS:
     escritos: int = 0
     eliminados: int = 0
     ultimo_evento: str = ""
-    
