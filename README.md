@@ -164,8 +164,36 @@ Funciones soportadas:
 - Refrescar directorio  
 - Visualizar estadísticas del monitor  
 
-### Ejmplo del sistema:
+### Ejemplo del sistema:
 ![Ejemplo de uso](docs/images/Ejemplo.png)
+
+---
+
+## 📂 Contenido del Disco FiUnamFS
+
+El sistema de archivos `fiunamfs.img` viene preconfigurado con un conjunto mínimo de archivos iniciales.  
+Al abrir la imagen en la GUI, aparecen las siguientes entradas:
+
+### ✔ Archivos incluidos por defecto
+
+| Nombre        | Tipo    | Descripción |
+|---------------|---------|-------------|
+| **README.org** | Archivo de texto | Documento base incluido en la imagen original del FS. Normalmente contiene notas o datos iniciales. |
+| **logo.png**   | Imagen PNG | Archivo gráfico usado como prueba para validar lectura de archivos binarios. |
+| **saludo.jpg** | Imagen JPG | Imagen adicional utilizada para verificar la correcta lectura y extracción de archivos dentro del sistema. |
+
+![Ejemplo de disco_1](docs/images/logo.png)
+![Ejemplo de disco_2](docs/images/saludo.jpg)
+
+Estos archivos sirven como contenido inicial para probar:
+
+- la lectura correcta del directorio  
+- el manejo de clusters contiguos  
+- la extracción de archivos desde la imagen  
+- la visualización correcta en la GUI  
+- las operaciones básicas del sistema (copiar, eliminar, refrescar)
+
+De esta forma, el usuario puede comenzar a utilizar FiUnamFS inmediatamente sin necesidad de cargar archivos externos.
 
 ---
 
