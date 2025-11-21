@@ -30,7 +30,7 @@ Este proyecto cumple los requisitos del Proyecto de Sistemas Operativos:
 ├── 📄 constantes.py       # Valores fijos del sistema (tamaños, magic, version) \
 ├── 📄 entradas.py         # Clase DirEntry (estructura de cada entrada de directorio) \
 ├── 📄 estado.py           # EstadoFS: estadísticas compartidas  \
-├── 📄 fiunamfs.py         # Implementación del sistema de archivos \<
+├── 📄 fiunamfs.py         # Implementación del sistema de archivos \
 ├── 📄 monitor.py          # Hilo daemon que imprime estadísticas \
 ├── 📄 sistema.py          # Aplicación en consola (CLI) \
 └── 📄 gui_fiunamfs.py     # Interfaz gráfica en PyQt5 \
