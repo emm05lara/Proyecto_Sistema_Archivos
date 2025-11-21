@@ -259,7 +259,7 @@ Este proyecto cubre:
 
 **Jinenez Olivo Evelin** \
 **Lara Hernández Emmanuel** \
-**Alvarez Salgado Eduardo Antonio**
+**Alvarez Salgado Eduardo Antonio** \
 Facultad de Ingeniería – UNAM \  
 Sistemas Operativos – Proyecto 2  
 
