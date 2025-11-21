@@ -226,7 +226,20 @@ Interfaz gráfica moderna en PyQt5:
 # 🔬 Ejemplos de Uso
 
 ### 📤 Copiar archivo desde la imagen
+Primero ejecutamos el programa para tener vista de la interfaz gráfica
+![Ejemplo de uso_1](docs/images/caso_prueba_1_1.jpeg)
+Hacemos click en el botón "Copiar desde FiUnamFS"
 
+Después nos abrirá un explorador de archivos para ir a la carpeta desea y poder guardar el archivo
+![Ejemplo de uso_2](docs/images/caso_prueba_1_2.jpeg)
+
+Una vez dandole a "Guardar", la interfaz nos abrirá una box indicandonos la ruta donde se copio el archivo
+![Ejemplo de uso_3](docs/images/caso_prueba_1_3.jpeg)
+
+Y solo nos queda comprabar que se haya copiado correctamente :) 
+![Ejemplo de uso_4](docs/images/caso_prueba_1_4.jpeg)
+
+**NOTA: Esta ejecución esta probada para windows, por lo que el proceso puede variar dependiendo el sistema operativo"**
 ---
 
 # 🛠️ Consideraciones Técnicas Importantes
