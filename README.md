@@ -33,7 +33,7 @@ Este proyecto cumple los requisitos del Proyecto de Sistemas Operativos:
 ├── 📄 fiunamfs.py         # Implementación del sistema de archivos \
 ├── 📄 monitor.py          # Hilo daemon que imprime estadísticas \
 ├── 📄 sistema.py          # Aplicación en consola (CLI) \
-└── 📄 gui_fiunamfs.py     # Interfaz gráfica en PyQt5 \
+└── 📄 gui_fiunamfs.py     # Interfaz gráfica en PyQt5 
 
 ---
 
@@ -257,9 +257,10 @@ Este proyecto cubre:
 
 # 👥 Autores
 
-**Jinenez Olivo Evelin**
-**Lara Hernández Emmanuel**
-Facultad de Ingeniería – UNAM  
+**Jinenez Olivo Evelin** \
+**Lara Hernández Emmanuel** \
+**Alvarez Salgado Eduardo Antonio**
+Facultad de Ingeniería – UNAM \  
 Sistemas Operativos – Proyecto 2  
 
 ---
